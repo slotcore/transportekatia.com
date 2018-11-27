@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 48" style="enable-background:new 0 0 64 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#267AE8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#4D5152;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#3FAFF5;}
+	.st4{fill:#FBB71A;}
+</style>
+<title>transport</title>
+<g id="Calque_2">
+	<g id="icons">
+		<polygon class="st0" points="63,40 41,40 41,14 54,14 63,28 		"/>
+		<rect x="1" y="1" class="st1" width="40" height="39"/>
+		<rect x="1" y="1" class="st2" width="40" height="39"/>
+		<polygon class="st2" points="63,40 41,40 41,14 54,14 63,28 		"/>
+		<circle class="st1" cx="52" cy="40" r="7"/>
+		<circle class="st2" cx="52" cy="40" r="7"/>
+		<circle class="st3" cx="52" cy="40" r="4"/>
+		<line class="st2" x1="51" y1="40" x2="53" y2="40"/>
+		<circle class="st1" cx="12" cy="40" r="7"/>
+		<circle class="st2" cx="12" cy="40" r="7"/>
+		<circle class="st3" cx="12" cy="40" r="4"/>
+		<line class="st2" x1="11" y1="40" x2="13" y2="40"/>
+		<polygon class="st1" points="58,26 44,26 44,17 52,17 		"/>
+		<rect x="6" y="6" class="st4" width="30" height="16"/>
+		<line class="st2" x1="60" y1="29" x2="63" y2="29"/>
+		<line class="st2" x1="36" y1="25" x2="22" y2="25"/>
+		<line class="st2" x1="36" y1="29" x2="28" y2="29"/>
+		<polygon class="st1" points="22,14 14,9 14,11 4,11 4,17 14,17 14,19 		"/>
+		<line class="st2" x1="1" y1="29" x2="4" y2="29"/>
+	</g>
+</g>
+</svg>

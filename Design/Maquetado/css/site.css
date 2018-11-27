@@ -1,0 +1,71 @@
+.cabecera {
+  color: #fff; }
+
+.cabecera .fixed-top {
+  display: block; }
+
+.contenido {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 5rem;
+  margin-bottom: 7rem; }
+
+.contenido .jumbotron {
+  background-color: #fff; }
+
+.contenido .titulo {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.1;
+  padding-top: 2rem; }
+
+.contenido .separador {
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important; }
+
+@media screen and (max-width: 576px) {
+  .contenido .titulo {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.1; }
+
+  .contenido .separador {
+    margin-top: .5rem !important;
+    margin-bottom: .5rem !important; } }
+.pie-de-pagina {
+  background-color: #292b2c;
+  color: #fff; }
+
+.pie-de-pagina .fixed-bottom {
+  display: block; }
+
+.pie-de-pagina .powered {
+  font-size: .8rem;
+  font-weight: 300; }
+
+.contenido-interno {
+  margin-top: 5rem;
+  margin-bottom: 7rem; }
+
+.contenido-interno .telefono::before {
+  content: "\f095";
+  font-family: FontAwesome;
+  padding-right: .5rem; }
+
+.contenido-interno .email::before {
+  content: "\f0e0";
+  font-family: FontAwesome;
+  padding-right: .5rem; }
+
+.contenido-interno .direccion::before {
+  content: "\f2bb";
+  font-family: FontAwesome;
+  padding-right: .5rem; }
+
+/*# sourceMappingURL=site.css.map */
